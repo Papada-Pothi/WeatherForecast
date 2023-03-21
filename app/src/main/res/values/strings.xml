@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">weather</string>
+<!-- cond text -->
+    <string name="cond1">Clear</string>
+    <string name="cond2">Partly cloudy</string>
+    <string name="cond3">Cloudy</string>
+    <string name="cond4">Overcast</string>
+    <string name="cond5">Light rain</string>
+    <string name="cond6">Moderate rain</string>
+    <string name="cond7">Heavy rain</string>
+    <string name="cond8">Thunderstorm</string>
+    <string name="cond9">Very cold</string>
+    <string name="cond10">Cold</string>
+    <string name="cond11">Cool</string>
+    <string name="cond12">Very hot</string>
+
+</resources>
