@@ -3,4 +3,6 @@
 
 <b> Preview App </b>
 
-![image](https://user-images.githubusercontent.com/72797613/226634040-59576cb6-1790-4d12-a2a0-e2626ff0eb05.png)
+![image](https://user-images.githubusercontent.com/72797613/226641708-a5f538bc-a28d-40e3-9904-f5e2c00456c4.png)
+![image](https://user-images.githubusercontent.com/72797613/226641761-0101a5ac-e083-4ead-8730-98fcb4f8fb10.png)
+
