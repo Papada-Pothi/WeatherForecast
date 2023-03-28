@@ -53,7 +53,8 @@ class MainFragment : Fragment(){
 
     companion object {
         @JvmStatic
-        fun newInstance(lon: Double, lat: Double, weatherForecastsHourlyModel: WeatherForecastsHourly, dailyForecastsModel: DailyForecastsModel) = MainFragment().apply {
+        fun newInstance(lon: Double, lat: Double, weatherForecastsHourlyModel: WeatherForecastsHourly,
+                        dailyForecastsModel: DailyForecastsModel) = MainFragment().apply {
             this.lon = lon
             this.lat = lat
             this.weatherForecastsHourlyModel = weatherForecastsHourlyModel

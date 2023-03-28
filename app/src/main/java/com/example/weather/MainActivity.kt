@@ -63,10 +63,10 @@ class MainActivity : AppCompatActivity(), LocationListener {
     }
     override fun onLocationChanged(location: Location) {
         lat =  13.6800 //use this for emulator (location in thailand)
-            //location.latitude //use this for visual phone
+            //location.latitude //use this for actual phone
 
         lon = 100.283 //use this for emulator (location in thailand)
-            //location.longitude //use this for visual phone
+            //location.longitude //use this for actual phone
      if (lon != 0.0){
          getHourlyForecasts()
         }
